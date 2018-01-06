@@ -1,0 +1,9 @@
+sqs:
+  protocol: http
+  host: localhost
+  port: 9324
+  name: sqsTest
+---
+file: 
+  path: src/test/resources/
+  name: received.test

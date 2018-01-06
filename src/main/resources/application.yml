@@ -1,0 +1,6 @@
+sqs: 
+  name: sqsCloud
+---
+file: 
+  path: src/main/resources/
+  name: received.main
